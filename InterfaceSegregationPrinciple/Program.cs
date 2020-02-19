@@ -10,6 +10,9 @@ namespace InterfaceSegregationPrinciple
     {
         static void Main(string[] args)
         {
+            //Bird bird = new Bird();
+            //bird.Eat();
+            //bird.Fly();
             Dog dog = new Dog();
             dog.Eat();
             dog.Bark();
